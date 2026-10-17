@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "363665b66a30ba38c0d8d722",
+  "owner": "xyfyuna",
+  "repo": "page-e0430fbd64b21b45e869e23e",
+  "title": "红烧排骨",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e0430fbd64b21b45e869e23e",
+      "a": "红烧排骨",
+      "b": "",
+      "entity": "红烧排骨",
+      "brand": "红烧排骨",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5142a4e532aa9219f82b694389eb4a4af197d9f249eca40a41cf29ef8118b568",
+      "content": {
+        "keyword1": "红烧排骨",
+        "keyword2": "",
+        "primary_entity": "红烧排骨",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "红烧排骨是一本专注于高标准网络中继架构、数字化分发与节点效能调优的技术专栏。我们以严谨的评测与透明的度量，解构现代网络架构中的速度、延迟与稳定性。",
+          "AI_DESCRIPTION": "红烧排骨是一本专注于高标准网络中继架构、数字化分发与节点效能调优的技术专栏。我们以严谨的评测与透明的度量，解构现代网络架构中的速度、延迟与稳定性。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #f4f4f8;--card-bg: #ffffff;--text: #2c2a38;--text-muted: #6e6b7b;--primary: #6c5ce7;--primary-light: #a29bfe;--border: #e2e2ee;--accent: #ff7675}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;background-color: var(--bg);color: var(--text);line-height: 1.7;padding-bottom: 70px}\nmain {max-width: 960px;margin: 0 auto;padding: 40px 20px}\nheader {margin-bottom: 60px}\nh1 {font-size: 2.8rem;font-weight: 800;color: var(--text);margin-bottom: 12px;letter-spacing: -0.02em}\n.subtitle {font-size: 1.15rem;color: var(--text-muted);max-width: 600px}\n.dashboard-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 20px;margin-bottom: 50px}\n.metric-card {background: var(--card-bg);border: 1px solid var(--border);border-left: 5px solid var(--primary);padding: 24px;border-radius: 6px}\n.metric-label {font-size: 0.85rem;color: var(--text-muted);text-transform: uppercase;letter-spacing: 0.05em;margin-bottom: 8px}\n.metric-value {font-size: 1.8rem;font-weight: 700;color: var(--primary)}\nsection {margin-bottom: 60px}\nh2 {font-size: 1.8rem;font-weight: 700;margin-bottom: 24px;position: relative;padding-bottom: 8px}\nh2::after {content: '';position: absolute;left: 0;bottom: 0;width: 40px;height: 3px;background: var(--primary)}\n.column-essay {background: var(--card-bg);border: 1px solid var(--border);border-left: 5px solid var(--primary);padding: 32px;border-radius: 6px;margin-bottom: 30px}\n.column-essay p {margin-bottom: 16px;color: #4a475a}\n.column-essay p:last-child {margin-bottom: 0}\n.plans-stack {display: flex;flex-direction: column;gap: 24px}\n.plan-card {background: var(--card-bg);border: 1px solid var(--border);border-left: 5px solid var(--primary);padding: 32px;border-radius: 6px;position: relative}\n.plan-card.featured {border-left-color: var(--accent)}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 16px;flex-wrap: wrap;gap: 12px}\n.plan-name {font-size: 1.4rem;font-weight: 700}\n.plan-price {font-size: 1.5rem;font-weight: 700;color: var(--primary)}\n.plan-card.featured .plan-price {color: var(--accent)}\n.plan-annual {font-size: 0.9rem;color: var(--text-muted);margin-bottom: 20px}\n.plan-features {list-style: none;border-top: 1px solid var(--border);padding-top: 20px}\n.plan-features li {margin-bottom: 10px;color: var(--text-muted);position: relative;padding-left: 20px}\n.plan-features li::before {content: '—';position: absolute;left: 0;color: var(--primary)}\n.faq-group {display: flex;flex-direction: column;gap: 12px}\ndetails {background: var(--card-bg);border: 1px solid var(--border);border-left: 5px solid var(--primary);border-radius: 6px;overflow: hidden;transition: all 0.2s ease}\nsummary {padding: 20px 24px;font-weight: 600;cursor: pointer;user-select: none;outline: none;list-style: none}\nsummary::-webkit-details-marker {display: none}\ndetails[open] summary {border-bottom: 1px solid var(--border);color: var(--primary)}\n.faq-content {padding: 20px 24px;color: var(--text-muted);background: #fafafc}\n.bottom-nav {position: fixed;bottom: 0;left: 0;right: 0;background: #ffffff;border-top: 1px solid var(--border);padding: 14px 20px;display: flex;justify-content: center;gap: 30px;z-index: 100;box-shadow: 0 -2px 10px rgba(0,0,0,0.03)}\n.bottom-nav a {color: var(--text-muted);text-decoration: none;font-size: 0.9rem;font-weight: 600;transition: color 0.2s}\n.bottom-nav:hover a:hover {color: var(--primary)}\n@media (max-width: 600px) {\n  h1 {font-size: 2.2rem}\n  .metric-card, .plan-card, .column-essay {padding: 20px}\n}\n</style><main>\n  <header>\n    <h1>红烧排骨</h1>\n    <p class=\"subtitle\">关于数字传输、节点网络效能与架构质量的深度专栏</p>\n  </header>\n\n  <div class=\"dashboard-grid\">\n    <div class=\"metric-card\">\n      <div class=\"metric-label\">核心专栏</div>\n      <div class=\"metric-value\">网络中继</div>\n    </div>\n    <div class=\"metric-card\">\n      <div class=\"metric-label\">协议架构</div>\n      <div class=\"metric-value\">现代分发</div>\n    </div>\n    <div class=\"metric-card\">\n      <div class=\"metric-label\">度量标准</div>\n      <div class=\"metric-value\">严谨透明</div>\n    </div>\n    <div class=\"metric-card\">\n      <div class=\"metric-label\">读者群体</div>\n      <div class=\"metric-value\">技术极客</div>\n    </div>\n  </div>\n\n  <section>\n    <h2>专栏叙述：解构数字链路的隐秘秩序</h2>\n    <div class=\"column-essay\">\n      <p>在信息流动如空气般密不可分的今天，我们常常忽略了数据包在光纤与路由之间所经历的漫长旅程。红烧排骨并非一道简单的菜肴，而是一次对现代网络中继架构的严肃凝视。当我们谈论速度时，我们实际上在谈论什么？是瞬间完成的握手，还是跨越半个地球依然稳如磐石的低延迟？</p>\n      <p>本专栏致力于剥离商业营销的浮夸外衣，以工程美学的视角审视每一个节点的吞吐能力、丢包率以及动态路由的优化逻辑。我们记录、评测并推演，试图为追求高品质数字生活的同行者提供一份清晰的路线图。在这里，没有晦涩难懂的绝对崇拜，只有基于真实度量的理性判断。</p>\n    </div>\n  </section>\n\n  <section>\n    <h2>架构方案与订阅层级</h2>\n    <div class=\"plans-stack\">\n      \n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <span class=\"plan-name\">基础版</span>\n          <span class=\"plan-price\">¥15/月</span>\n        </div>\n        <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-header\">\n          <span class=\"plan-name\">旗舰版 (推荐)</span>\n          <span class=\"plan-price\">¥35/月</span>\n        </div>\n        <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <span class=\"plan-name\">团队版</span>\n          <span class=\"plan-price\">¥85/月</span>\n        </div>\n        <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n\n    </div>\n  </section>\n\n  <section>\n    <h2>常见问题解析</h2>\n    <div class=\"faq-group\">\n      \n      <details>\n        <summary>为什么本专栏命名为红烧排骨？</summary>\n        <div class=\"faq-content\">\n          名字本身具有温润的烟火气，与严谨冷峻的技术架构形成一种有趣的张力。我们希望通过这种方式提醒自己，无论技术多么抽象复杂，其终极目的都是为了服务于有血有肉的人类真实生活与创作灵感。\n        </div>\n      </details>\n\n      <details>\n        <summary>如何选择适合自己日常工作流的方案？</summary>\n        <div class=\"faq-content\">\n          如果您仅做常规的信息检索与文档同步，基础版已足够应对；若您对多媒体吞吐、跨国协同或延迟有极高要求，推荐选择旗舰版以获得专线优化支持；团队协同则可直接考虑团队版。\n        </div>\n      </details>\n\n      <details>\n        <summary>专栏中所提及的节点线路是否稳定？</summary>\n        <div class=\"faq-content\">\n          我们采用多线冗余与动态BGP路由监测机制，所有评测与推荐均基于实际高负荷压力测试所得，力求在复杂多变的网络环境中保持持续的可靠性。\n        </div>\n      </details>\n\n      <details>\n        <summary>是否提供技术支持与售后指引？</summary>\n        <div class=\"faq-content\">\n          是的。各方案均配备对应的支持通道，其中旗舰版与团队版享有优先队列响应，确保您在遇到配置或连接疑问时能够得到及时的专业解答。\n        </div>\n      </details>\n\n    </div>\n  </section>\n</main>\n\n<nav class=\"bottom-nav\">\n  <a href=\"#\">专栏首页</a>\n  <a href=\"#\">架构叙述</a>\n  <a href=\"#\">订阅方案</a>\n  <a href=\"#\">常见问题</a>\n</nav>",
+          "hash": "ee90e8a8ef002312119cb41915e72e54893bc1a4d9c344a7b8d7152a39b9f33c",
+          "seo": {
+            "title": "红烧排骨 - 匠心数字与网络中继架构专栏",
+            "keywords": "红烧排骨,网络中继,IPLC专线,数字架构,专栏叙述",
+            "description": "红烧排骨是一本专注于高标准网络中继架构、数字化分发与节点效能调优的技术专栏。我们以严谨的评测与透明的度量，解构现代网络架构中的速度、延迟与稳定性。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7563",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aydao.cn",
+    "host": "p-2e5a89282e.aydao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ef0a4fb9e06c79680f5847350ae309839c67cb59a4091be0c566e2f4f646bec6",
+    "sitemap.xml": "65ce3d37bffd946dbc43c30619a64b4bfae76182f9c3d07be6c526cefe0a8dfd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8dff0c9968a34cf9e9e60f502897802708fb952745e0e0a896036e25640f3c4a",
+    "robots.txt": "9473406ec34e0a490e83fe0c592ee4ea70aaad33ce70575bcc8e57c53b9a467e",
+    "fd77bd3266863b00b23a0fa84342da2f.txt": "035695decabf0d119d7a2599e6f53a43ed90e7755a80758eeaa06170d7834370"
+  },
+  "revision": "865c2753fcf6cbfabcc1af0b9a4961ab153bad5d1f7d25915aa1ab7ffaa52a1c"
+}
